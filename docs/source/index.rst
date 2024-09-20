@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Rikvip - Cổng Game Bài Đổi Thưởng Hàng Đầu Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Rikvip <https://playrikvip.ink/>`_ là một cổng game bài đổi thưởng quốc tế hàng đầu tại Việt Nam, ra mắt từ năm 2015 và hoạt động trên các nền tảng iOS, Android, và Webgame. Được cấp phép kinh doanh bởi chính phủ Philippines và tổ chức PAGCOR, Rikvip thu hút hơn 2.500.000 lượt tải và cài đặt. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với hơn 50 trò chơi đổi thưởng hấp dẫn, bao gồm game bài Tiến Lên, Poker, hệ thống livestream với các sòng chơi trực tuyến, game nổ hũ đa dạng, cùng 4 sảnh cá cược thể thao, Rikvip mang đến cho người chơi trải nghiệm giải trí phong phú.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 139 Tân Thới Nhất 17, Tân Thới Nhất, Quận 12, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0790986555. 
 
-.. toctree::
+Email: info@playrikvip.ink. 
 
-   usage
-   api
+Website: https://playrikvip.ink/ 
+
+#rikvip #rik_vip #tairikvip #dangkyrikvip #linkrikvip
